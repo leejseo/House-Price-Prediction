@@ -1,4 +1,7 @@
 # House-Price-Prediction
+팀원: 유재민, 조영인, 최재민
+
+## Environment
 학습과 테스트를 진행한 환경은 다음과 같다:
   * OS: Windows 10 64bit
   * Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz 2.21 GHz
